@@ -93,3 +93,9 @@ MM_CNOT total_time: 50.0, steps: 2000, size: 36
 1_transmon_pi.h5
 00000_transmon_pi.h5
 00001_transmon_pi.h5
+Error = :5.10e-01; Runtime: 0.0s; Iterations = 0, grads =   3.237e-02, unitary_metric = 0.99994
+Error = :1.38e-03; Runtime: 57.4s; Iterations = 50, grads =   2.056e-04, unitary_metric = 0.99991
+Error = :9.55e-04; Runtime: 80.0s; Iterations = 69, grads =   2.967e-04, unitary_metric = 0.99991
+Error = :1.07e-03; Runtime: 81.9s; Iterations = 70, grads =   2.293e-04, unitary_metric = 0.99991
+Error = :1.01e-03; Runtime: 83.7s; Iterations = 71, grads =   5.440e-04, unitary_metric = 0.99991
+Error = :9.64e-04; Runtime: 85.4s; Iterations = 72, grads =   1.268e-04, unitary_metric = 0.99991
