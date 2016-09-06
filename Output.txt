@@ -101,3 +101,7 @@ Error = :1.01e-03; Runtime: 83.7s; Iterations = 71, grads =   5.440e-04, unitary
 Error = :9.64e-04; Runtime: 85.4s; Iterations = 72, grads =   1.268e-04, unitary_metric = 0.99991
 Error = :5.07e-01; Runtime: 0.0s; Iterations = 0, grads =   2.100e-02, unitary_metric = 0.99992
 Error = :1.42e-03; Runtime: 58.4s; Iterations = 50, grads =   7.337e-04, unitary_metric = 0.99995
+Error = :5.25e-01; Runtime: 0.0s; Iterations = 0, grads =   5.140e-02, unitary_metric = 0.99994
+Error = :2.97e-03; Runtime: 78.0s; Iterations = 50, grads =   1.428e-03, unitary_metric = 0.99993
+Error = :7.98e-04; Runtime: 156.0s; Iterations = 100, grads =   4.174e-04, unitary_metric = 0.99995
+Error = :9.36e-04; Runtime: 158.3s; Iterations = 101, grads =   1.959e-04, unitary_metric = 0.99996
