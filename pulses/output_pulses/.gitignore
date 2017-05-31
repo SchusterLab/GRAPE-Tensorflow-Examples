@@ -2,4 +2,5 @@
 #see https://stackoverflow.com/questions/4250063/how-to-gitignore-all-files-folder-in-a-folder-but-not-the-folder-itself
 *
 */
+!README.md
 !.gitignore
